@@ -1,0 +1,6 @@
+{
+  "name": "WonderTales - Magical Kids Storytelling",
+  "description": "Magical storytelling platform for children ages 4–10. Read, listen, and explore interactive picture books, read-aloud theater, and cozy bedtime tales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
